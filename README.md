@@ -7,5 +7,7 @@ In case the word does not exists, relevant message is displayed.
 ----------------
 Execution Steps:
 ----------------
-1. Keep py file and json file in same folder.
-2. Run python wordMeaning.py
+Keep *py* file and *json* file in same folder.
+```
+python wordMeaning.py
+```
